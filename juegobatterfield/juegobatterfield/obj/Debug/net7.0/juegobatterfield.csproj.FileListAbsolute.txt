@@ -1,0 +1,15 @@
+/Users/emanuelgarrido/Desktop/University/juegobatterfield/juegobatterfield/bin/Debug/net7.0/juegobatterfield
+/Users/emanuelgarrido/Desktop/University/juegobatterfield/juegobatterfield/bin/Debug/net7.0/juegobatterfield.deps.json
+/Users/emanuelgarrido/Desktop/University/juegobatterfield/juegobatterfield/bin/Debug/net7.0/juegobatterfield.runtimeconfig.json
+/Users/emanuelgarrido/Desktop/University/juegobatterfield/juegobatterfield/bin/Debug/net7.0/juegobatterfield.dll
+/Users/emanuelgarrido/Desktop/University/juegobatterfield/juegobatterfield/bin/Debug/net7.0/juegobatterfield.pdb
+/Users/emanuelgarrido/Desktop/University/juegobatterfield/juegobatterfield/obj/Debug/net7.0/juegobatterfield.csproj.AssemblyReference.cache
+/Users/emanuelgarrido/Desktop/University/juegobatterfield/juegobatterfield/obj/Debug/net7.0/juegobatterfield.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emanuelgarrido/Desktop/University/juegobatterfield/juegobatterfield/obj/Debug/net7.0/juegobatterfield.AssemblyInfoInputs.cache
+/Users/emanuelgarrido/Desktop/University/juegobatterfield/juegobatterfield/obj/Debug/net7.0/juegobatterfield.AssemblyInfo.cs
+/Users/emanuelgarrido/Desktop/University/juegobatterfield/juegobatterfield/obj/Debug/net7.0/juegobatterfield.csproj.CoreCompileInputs.cache
+/Users/emanuelgarrido/Desktop/University/juegobatterfield/juegobatterfield/obj/Debug/net7.0/juegobatterfield.dll
+/Users/emanuelgarrido/Desktop/University/juegobatterfield/juegobatterfield/obj/Debug/net7.0/refint/juegobatterfield.dll
+/Users/emanuelgarrido/Desktop/University/juegobatterfield/juegobatterfield/obj/Debug/net7.0/juegobatterfield.pdb
+/Users/emanuelgarrido/Desktop/University/juegobatterfield/juegobatterfield/obj/Debug/net7.0/juegobatterfield.genruntimeconfig.cache
+/Users/emanuelgarrido/Desktop/University/juegobatterfield/juegobatterfield/obj/Debug/net7.0/ref/juegobatterfield.dll
